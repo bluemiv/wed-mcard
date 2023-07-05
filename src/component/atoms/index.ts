@@ -1,1 +1,1 @@
-export { default as HumanName } from './HumanName';
+export { default as Text } from './Text';
